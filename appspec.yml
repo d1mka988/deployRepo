@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /var/www/deploy-<%= deployment_id %>
+    destination: /var/www/deploy-latest
 hooks:
   AfterInstall:
     - location: deploy/update.sh
