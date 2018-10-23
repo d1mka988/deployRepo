@@ -7,5 +7,5 @@ hooks:
   AfterInstall:
     - location: deploy/update.sh
       timeout: 300
-      runas: www-data
+      runas: ubuntu
 
