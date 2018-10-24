@@ -17,5 +17,4 @@ sudo -H -u www-data php artisan view:clear
 sudo -H -u www-data php artisan config:cache
 sudo -H -u www-data php artisan auth:clear-resets
 sudo -H -u www-data ln -sfn /var/www/deploy-$DEPLOYMENT_ID /var/www/html
-
-
+sudo service php7.2-fpm reload
