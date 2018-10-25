@@ -80,10 +80,11 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel Mathefucks Deploy Works
+			<br> Follow me...
                 </div>
 
                 <div class="links">
-			Version 1.0.0.2
+			Version 1.0.0.3
                 </div>
             </div>
         </div>
