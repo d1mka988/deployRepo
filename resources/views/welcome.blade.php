@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-			Version 1.0.0.1
+			Version 1.0.0.2
                 </div>
             </div>
         </div>
